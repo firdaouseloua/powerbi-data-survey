@@ -40,5 +40,5 @@ This Power BI project analyzes survey responses from data professionals across t
 ## Author
 
 **Firdaous Elouadi**  
-[LinkedIn](https://www.linkedin.com/) | [Portfolio](#) (add if you have)
+[LinkedIn](https://www.linkedin.com/in/firdaous-elouadi-231468258/) 
 
