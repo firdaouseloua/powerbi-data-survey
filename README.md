@@ -16,7 +16,7 @@ This Power BI project analyzes survey responses from data professionals across t
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard-overview.png)
+![Dashboard Screenshot](screenshots/)
 
 ---
 
