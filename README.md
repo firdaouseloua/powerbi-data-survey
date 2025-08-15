@@ -36,11 +36,6 @@ This Power BI project analyzes survey responses from data professionals across t
 
 ---
 
-## License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
 
 ## Author
 
